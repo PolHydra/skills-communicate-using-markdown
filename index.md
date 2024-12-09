@@ -3,7 +3,9 @@
 ``` javascript
 var myVar = "Ya're a wizard Harry!";
 ```
-
+- [X] Acquire Harry
+- [ ] Go to Diagon Alley
+- [ ] Get the Dumbledores rock from Gringotts   
 
 # Test #/
 ## Test ##/
